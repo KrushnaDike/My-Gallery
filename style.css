@@ -41,6 +41,7 @@
     transform: scale(1.03);
     transition: 0.5s;
     filter: drop-shadow(0 0 10px #333); 
+    cursor: pointer;
 }
 
 .card:hover img{
